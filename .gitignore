@@ -1,0 +1,34 @@
+# --- Compiled Binaries ---
+bench_swarm
+*.exe
+*.out
+*.app
+
+# --- Object & Library Files ---
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+
+# --- Build Directories ---
+build/
+bin/
+dist/
+
+# --- Dependency Files ---
+*.d
+
+# --- IDE & Editor Junk ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# --- Logs & Performance Traces ---
+*.log
+gmon.out
+.perf/
